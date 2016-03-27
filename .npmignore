@@ -1,0 +1,9 @@
+.travis.yml
+examples
+.eslintrc.?*
+.eslintignore
+.babelrc
+.editorconfig
+.gitattributes
+.gitkeep
+*.(tgz|zip|tar.gz)
