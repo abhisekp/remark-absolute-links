@@ -52,3 +52,7 @@ jspm_packages
 !.gitkeep
 !README.md
 coverage.html
+
+# Ignore generated lib/ directory
+/lib
+/lib.test
